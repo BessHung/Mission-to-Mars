@@ -31,8 +31,8 @@ def scrape():
 ([index.html](Challenge/templates/index.html))
 
 ### Results
-Demo for websites
-[]()
+###### Demo for websites
+![](Challenge/Figure2.png)
 
-Demo for mobile-responsive
-[]()
+###### Demo for mobile-responsive
+![](Challenge/Figure1.png)
